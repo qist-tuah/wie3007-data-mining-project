@@ -3,10 +3,10 @@
 ## Team
 | Member | Role | Model(s) |
 |---|---|---|
-| Member 1 | Dataset Simulation | Decision Tree (baseline) |
-| Member 2 | LLM Feature Engineering + EDA | Logistic Regression |
-| Member 3 | Ensemble Models + Interpretation | Random Forest, XGBoost |
-| Muhammad Aliff Adam bin Sultan | Neural Network + Evaluation | MLP |
+| Muaz Zikry Bin Samsul | Dataset Simulation | Decision Tree (baseline) |
+| Muhammad Adam Harith Bin Mohd Zaki | LLM Feature Engineering + EDA | Logistic Regression |
+| Qistina Aqilah Binti Abdul Razak Tuah | Ensemble Models + Interpretation | Random Forest, XGBoost |
+| Muhammad Aliff Adam Bin Sultan | Neural Network + Evaluation | MLP |
 
 ## Folder Structure
 - `data/raw/` - simulated dataset
