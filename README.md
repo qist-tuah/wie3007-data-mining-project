@@ -6,7 +6,7 @@
 | Member 1 | Dataset Simulation | Decision Tree (baseline) |
 | Member 2 | LLM Feature Engineering + EDA | Logistic Regression |
 | Member 3 | Ensemble Models + Interpretation | Random Forest, XGBoost |
-| Member 4 | Neural Network + Evaluation | MLP |
+| Muhammad Aliff Adam bin Sultan | Neural Network + Evaluation | MLP |
 
 ## Folder Structure
 - `data/raw/` - simulated dataset
