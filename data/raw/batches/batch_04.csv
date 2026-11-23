@@ -1,0 +1,101 @@
+customer_id,age,annual_income,loan_amount,loan_term_months,credit_score,existing_debts,employment_years,employment_type,region,loan_purpose,customer_feedback,default
+C0301,47,43000,182000,276,633,16800,3,Unemployed,Other,Home,"I'm worried the bank will take legal action, and I don't know my rights. I can't picture paying RM1,570 for another 23 years.",0
+C0302,64,68000,172500,108,543,89100,9,Salaried,Sarawak,Business,"With RM89,100 in debts and RM2,460 due each month, I'm completely overextended.",1
+C0303,26,32500,6000,84,744,0,2,Salaried,Klang Valley,Personal,"My accountant reviewed my numbers before I signed, and everything has matched her projections. My husband and I both work, so a single missed paycheck wouldn't break us. I like seeing the outstanding balance drop quicker than the schedule says.",0
+C0304,50,138500,34500,48,625,43200,4,Contract,Klang Valley,Business,"I think RM34,500 was about the limit of what I should have borrowed. My business income dipped slightly, and it's affecting how comfortable I feel. RM34,500 turned out to be a bigger commitment than my budget likes.",0
+C0305,26,24000,26500,36,762,80600,1,Salaried,Sarawak,Personal,I should have listened when people warned me about borrowing so much.,1
+C0306,49,136500,147500,84,792,0,2,Contract,Klang Valley,Business,"Our family is financially steady, and this repayment doesn't change that.",0
+C0307,43,24000,60000,84,679,5000,4,Self-employed,Other,Car,"I'm managing RM1,010 on time, but my savings aren't growing.",0
+C0308,65,147500,230000,36,754,14100,16,Salaried,Other,Business,"Looking back, I'm happy I took my time before choosing the terms. I appreciated that the staff didn't push me to borrow more than I needed. The business loan of RM230,000 was a calm, calculated step.",0
+C0309,48,72500,36000,36,598,30400,6,Self-employed,Other,Personal,"Sometimes I use my card for groceries until payday, which isn't ideal.",0
+C0310,22,56000,392000,324,668,23800,0,Salaried,Penang,Home,"I've been lucky with stable pay and no major surprises. The paperwork was quick, and I haven't thought much about it since.",0
+C0311,44,53500,19500,84,717,24000,10,Salaried,Johor,Personal,"We're surviving the month well enough, but there's no extra.",0
+C0312,33,93500,90500,84,682,67000,4,Salaried,Klang Valley,Business,"I feel okay most days, but I'm certainly not relaxed about money. I'm hoping for a pay review soon, which would take some pressure off. I'd have been happier with a slightly lower instalment.",0
+C0313,60,56000,392000,324,638,55600,14,Salaried,Klang Valley,Home,"My stress is moderate, and I hope it doesn't get worse.",0
+C0314,57,81000,28000,60,674,0,2,Contract,Sarawak,Business,Unexpected family costs have drained my spare cash.,0
+C0315,32,44500,23000,48,577,35000,5,Salaried,Sabah,Education,"I've cut everything but rent and food, and it still falls short.",0
+C0316,26,60500,33000,12,548,19100,3,Salaried,Klang Valley,Personal,"My pay barely covers the basics, never mind the personal loan. I'm now relying on cash advances, which I know is a terrible idea.",0
+C0317,50,88000,95000,120,727,24400,4,Contract,Other,Business,"I'm proud I've kept my credit record clean for over a decade. Paying for 10 years doesn't scare me, since RM1,270 is so manageable.",0
+C0318,32,75500,257000,360,745,172300,8,Salaried,Klang Valley,Home,"My business has been losing money for months, and this home loan is sinking me further. I regret every ringgit I borrowed beyond what I needed.",1
+C0319,24,88000,28500,108,647,16300,1,Salaried,Sabah,Business,"My household runs on a plan, and this business loan was part of it from the start. Because RM16,300 is all I owe elsewhere, I feel quite secure.",0
+C0320,59,44000,56500,120,842,40500,8,Contract,Penang,Business,"Paying RM750 while prices climb is slowly wearing on me. I think I took the maximum I could manage rather than a safe amount. I'm getting along fine, though it takes more attention than I expected.",0
+C0321,29,39000,58500,72,717,3500,6,Self-employed,Klang Valley,Car,"Paying RM1,100 over 6 years is making me rethink my spending habits.",0
+C0322,38,114500,19000,96,602,25500,6,Salaried,Sarawak,Education,"There's a small cushion left, but it's shrinking.",0
+C0323,33,29500,65500,72,666,38300,7,Self-employed,Klang Valley,Car,"I regret not borrowing a smaller amount than RM65,500.",0
+C0324,52,55000,20500,108,662,31900,1,Unemployed,Other,Education,It took a few months to adjust my lifestyle to the repayment.,0
+C0325,23,24000,152000,312,743,8900,1,Self-employed,Sabah,Home,"I am coping, but I would not call this relaxing. I keep a running list of due dates so nothing slips through.",0
+C0326,39,126000,304500,360,622,33600,10,Salaried,Klang Valley,Home,"It's a heavier commitment than I realised at the start. I accepted a pay cut during the pandemic, and I never fully caught up.",1
+C0327,61,47000,132500,108,715,28200,4,Contract,Other,Education,"I carry roughly RM28,200 in other debts, which keeps me cautious.",0
+C0328,55,51000,260000,264,591,12400,20,Salaried,Klang Valley,Home,"I've asked about reducing my payments, but nothing has changed yet. The RM260,000 I took has become a nightmare I can't wake up from.",0
+C0329,61,46000,32500,84,615,0,0,Unemployed,Sarawak,Education,"I'm panicking, since the money simply isn't there.",0
+C0330,63,51500,333500,360,569,18400,17,Salaried,Johor,Home,"The repayment is steady, but my pay isn't growing as quickly as my bills.",1
+C0331,53,40500,65500,72,549,21100,27,Salaried,Other,Car,"I keep a healthy buffer in my account, so the instalment date never worries me. I sized this car loan to my pay with room to spare, and it's been uneventful.",0
+C0332,61,50500,353500,312,541,22200,36,Salaried,Other,Home,"I'm ashamed, because I used to be good with money. I took out other loans to cover this one, and now I'm in deeper.",1
+C0333,31,63500,409500,240,748,0,5,Contract,Other,Home,"Honestly, I could handle a much bigger instalment than this one. It's a comfortable arrangement, and I'd choose the same again. I've kept some spare cash in a separate account just for the instalment.",0
+C0334,43,87000,78500,96,600,21300,0,Contract,Other,Car,"It's okay, but I don't want any more big expenses this year. The pressure is mild but constant, like a low hum in the background. RM1,210 is bearable, but I have to plan around it every single month.",1
+C0335,60,58000,101500,36,441,23600,5,Contract,Johor,Car,I've stopped answering unknown numbers because I'm afraid it's collections.,1
+C0336,43,171000,21000,12,739,29600,16,Salaried,Sarawak,Personal,I can honestly say this has been the easiest debt I've ever managed.,0
+C0337,43,110500,15000,60,719,7100,10,Salaried,Other,Personal,"I don't feel any pressure, and I don't think of this as a burden.",0
+C0338,37,66000,384000,240,688,137500,4,Salaried,Other,Home,I don't see how the home loan will ever be paid at this rate. The instalment is higher than my entire grocery and transport budget combined.,1
+C0339,44,76000,26500,60,733,53700,4,Contract,Johor,Personal,"The RM570 a month is workable, though my buffer is thin. When something unexpected comes up, I have to reshuffle my whole budget.",0
+C0340,55,113500,21000,48,572,62100,14,Salaried,Other,Personal,I've asked for extra shifts to build a little more safety margin.,0
+C0341,55,63500,11500,12,760,18400,1,Contract,Klang Valley,Personal,"My earnings are reliable and my expenses are modest. Honestly, it's one of the least worrying things in my life.",0
+C0342,57,54000,24000,60,638,177200,3,Unemployed,Klang Valley,Business,"I've lost track of how many payments I've delayed. My confidence is gone, because I can't seem to get ahead.",1
+C0343,50,61500,58000,24,549,0,25,Salaried,Other,Personal,The monthly amount fits inside my budget with plenty left over for savings.,1
+C0344,23,56500,15500,60,556,61800,1,Self-employed,Klang Valley,Personal,"I'm skipping meals so I can pay the bank something this month. Between RM61,800 of other debts and this personal loan, I'm buried. Work has been unreliable, and I can't plan even a week ahead.",1
+C0345,24,38000,42500,36,815,16100,2,Unemployed,Other,Car,"I'm paying consistently, though I'd call it tight.",0
+C0346,24,83500,76000,36,484,41600,0,Contract,Klang Valley,Personal,I just want some breathing room before I lose everything.,1
+C0347,40,64500,54000,72,780,14500,11,Self-employed,Klang Valley,Car,Having a stable job makes the whole repayment feel routine. I make an occasional lump sum payment from my tax refund.,0
+C0348,31,50000,147000,48,578,55200,0,Salaried,Klang Valley,Car,"I can't afford RM3,800 anymore, and I'm scared to say so out loud. Money is the only thing I think about these days, and none of it is good.",1
+C0349,62,107500,77500,72,730,56400,16,Self-employed,Klang Valley,Car,"The bank gave me a fair offer, and I've had no reason to complain.",0
+C0350,50,158500,500000,348,709,0,9,Salaried,Sabah,Home,"RM500,000 was a comfortable amount for someone on my income.",0
+C0351,61,65500,77500,84,627,15100,18,Salaried,Johor,Car,"Everything lines up, from my pay date to my due date.",0
+C0352,42,74500,41000,84,667,0,5,Salaried,Klang Valley,Car,Some months I have to skip my own savings to keep things even.,0
+C0353,30,24000,71500,108,657,0,7,Self-employed,Klang Valley,Car,"The RM1,020 comes off my account each month and I don't give it a second thought.",0
+C0354,57,29000,22500,60,694,0,6,Self-employed,Sabah,Education,"My pay and my plans match, so repayment time is never stressful.",0
+C0355,48,152000,11500,24,654,75900,21,Self-employed,Klang Valley,Personal,"Even during the holidays I've had no trouble covering the payment. My budget has separate envelopes for bills, savings and fun, and the loan envelope is never short.",0
+C0356,27,32000,15000,36,811,16000,3,Self-employed,Other,Personal,"I'm satisfied with the service and the terms, which have both been consistent.",0
+C0357,65,65000,23000,36,737,6800,13,Salaried,Klang Valley,Business,"No lost sleep, no late fees, and no regrets whatsoever. The instalment is small next to what we bring in each month.",0
+C0358,61,36000,239000,276,806,0,2,Contract,Klang Valley,Home,"I don't have any late payments on my record, not even one.",0
+C0359,62,47500,239000,312,678,30500,17,Salaried,Klang Valley,Home,"My income vanished with the contract ending, and the debt stayed.",1
+C0360,39,60000,132000,84,513,30900,11,Salaried,Johor,Car,"I pay for this car loan before anything else, and the rest gets divided carefully. The repayment is fine as long as my income holds up.",0
+C0361,31,69000,47500,36,562,7900,1,Salaried,Klang Valley,Business,Inflation has taken a bite out of the budget I originally planned.,0
+C0362,36,78000,41000,96,672,40100,10,Salaried,Johor,Car,There's no room left in my life for anything but repayments.,0
+C0363,52,70500,205000,288,663,38600,12,Self-employed,Johor,Home,Instalment day always makes me check my balance twice.,0
+C0364,21,63000,55000,96,776,25000,0,Contract,Other,Car,My finances fell apart after a medical emergency and a job loss together. Every month is a fresh emergency for me. Missing this payment again would feel like the end of the road.,1
+C0365,21,73500,10000,12,694,27700,0,Contract,Other,Personal,"I stay cheerful about it, but it's definitely a watchful phase. Honestly I'm fine, but a good month and a bad month feel very different.",0
+C0366,29,67500,57000,48,693,57700,0,Self-employed,Other,Car,"The penalty charges alone are now a burden I can't carry. My credit card is already declined at times, so I can't lean on it anymore.",1
+C0367,24,61500,210500,312,588,6400,1,Self-employed,Penang,Home,"We rely on careful planning to keep the month balanced. I borrow from my EPF savings in my head when I plan, which isn't good.",1
+C0368,31,72000,191500,96,661,14700,2,Salaried,Klang Valley,Business,"I have just enough income to cover things, and no more.",0
+C0369,27,89000,61000,48,751,46400,0,Contract,Klang Valley,Personal,"I owe only about RM46,400 apart from this, which keeps things light.",0
+C0370,40,77000,206000,336,780,49500,6,Contract,Johor,Home,"My outgoings rose faster than my salary over the past year. The first few months were easy, and then costs started piling up.",0
+C0371,28,106500,326500,312,685,35300,5,Salaried,Other,Home,I've been building my savings alongside the repayments without any stress.,0
+C0372,33,33000,76500,108,645,3900,1,Salaried,Penang,Car,"I've never had to adjust my lifestyle for the RM1,090 instalment.",0
+C0373,48,26000,182000,348,652,16800,18,Salaried,Sabah,Home,"I'd say I'm financially comfortable, and the home loan hasn't changed that. I took the home loan for a sensible reason and have kept up without trouble. I don't carry credit card balances, so my only debt is this one.",0
+C0374,23,35000,12000,72,662,11000,0,Salaried,Klang Valley,Personal,"I'm at ease with RM12,000, as it was planned carefully. My income has risen steadily, and the repayment now feels almost small.",0
+C0375,50,135000,84000,36,743,25200,16,Salaried,Johor,Personal,"The RM2,750 each month is an easy line in my budget.",0
+C0376,54,52500,60500,72,452,56000,20,Salaried,Johor,Business,"I'm out of options, and I'm hoping the bank will show some mercy. I wake up thinking about the instalment, and I go to bed thinking about it too.",1
+C0377,43,140000,51000,108,703,26000,7,Self-employed,Other,Business,"The business loan for RM51,000 is fine, but together with RM26,000 I owe elsewhere, it's heavy.",0
+C0378,62,91500,39500,84,677,42000,32,Salaried,Klang Valley,Education,"I'd do anything for a restructured plan I can actually afford. I owe RM42,000 elsewhere, and the education loan pushed me past my limit.",0
+C0379,33,234500,59000,48,716,86300,3,Self-employed,Klang Valley,Car,"I'm still comfortable enough to sleep at night, but only just.",0
+C0380,61,37000,8000,48,691,8700,6,Contract,Sabah,Personal,"Every month, RM210 goes out and I still have money to save. The online portal makes it simple to check what remains, and the number keeps dropping.",0
+C0381,51,28000,22000,24,612,0,1,Unemployed,Klang Valley,Personal,"There's too much owing and too little coming in. I'm doing multiple gigs, and it still doesn't cover the instalment.",0
+C0382,31,43000,18000,120,738,14700,2,Salaried,Klang Valley,Business,"We put aside part of every month for repairs and emergencies, so we're covered.",0
+C0383,31,36000,15500,84,708,13000,1,Unemployed,Johor,Personal,My savings goal has been put on hold until things ease.,0
+C0384,60,122500,17500,24,640,109000,23,Salaried,Other,Personal,I've had to give up a few luxuries to stay comfortable with this personal loan.,1
+C0385,48,29500,206500,288,629,55000,7,Contract,Penang,Home,"I can see default coming, and I feel helpless.",1
+C0386,48,46000,80500,108,580,47500,7,Contract,Klang Valley,Car,Even asking my friends for small loans has stopped working.,1
+C0387,48,87000,8500,24,756,82300,20,Salaried,Klang Valley,Personal,"I paid off my older debts first, which made this personal loan very comfortable.",0
+C0388,40,109000,228000,36,664,72900,6,Contract,Klang Valley,Business,"I'm constantly in the red, and every new bill is a crisis. I need the bank to lower the RM7,470, or I won't be able to continue. I feel sick every time the due date approaches.",1
+C0389,21,65000,250000,264,484,27200,0,Salaried,Penang,Home,"Creditors keep calling, and I don't know what to tell them. I've never felt this financially trapped before in my life.",0
+C0390,65,24000,25000,12,770,10500,20,Salaried,Sarawak,Personal,"We chose a term that balances cost and comfort, and it's worked well.",0
+C0391,34,82500,27500,48,536,0,5,Salaried,Klang Valley,Personal,"I'm quietly pleased with how well this personal loan fits my monthly life. My cash flow is healthy, and the loan sits well within it.",0
+C0392,49,89000,87500,48,577,0,15,Salaried,Klang Valley,Business,"I'm trying to be debt free by my mid fifties, and I'm well on track.",0
+C0393,50,202000,32000,72,681,30900,15,Self-employed,Penang,Personal,"My family helps a bit when needed, which keeps me going. Every payday I split my pay between the loan and the essentials, and that's about it.",0
+C0394,24,96000,94500,84,665,13900,2,Salaried,Other,Car,Money has been more of a worry lately than it was a year ago.,0
+C0395,59,59500,93000,48,569,45100,3,Contract,Klang Valley,Car,"I begged my relatives for help last month, and I can't do it again.",0
+C0396,21,64000,30000,60,706,18800,0,Self-employed,Klang Valley,Personal,"I wish the 5-year term were shorter, but I can't afford more than RM650. It's a fair deal, though my own spending habits need some work.",0
+C0397,43,33000,21500,72,832,11500,2,Salaried,Johor,Personal,"Each month the instalment clears and I move on with my life. I keep my spending in check, so repayment day is just another date.",0
+C0398,35,32500,29000,48,686,15700,6,Salaried,Klang Valley,Car,I'd call RM750 a month a very fair price for this car loan.,0
+C0399,26,53500,43500,72,650,56600,3,Salaried,Klang Valley,Education,"I never expected my life to go this badly off track financially. I fell behind after my hours were cut, and I've never caught up.",0
+C0400,56,49000,26500,72,637,35500,5,Salaried,Klang Valley,Personal,The monthly RM500 has changed how I plan every holiday and purchase.,0
